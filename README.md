@@ -1,15 +1,17 @@
 # One Dark NX
 
-Slightly modified [One Dark Vivid](https://github.com/kkozee/vscode-theme-one-dark-vivid) theme, adopted for my own needs
+[![version](https://vsmarketplacebadge.apphb.com/version-short/vxna.one-dark-nx.svg)](https://marketplace.visualstudio.com/items?itemName=vxna.one-dark-nx) [![installs](https://vsmarketplacebadge.apphb.com/installs-short/vxna.one-dark-nx.svg)](https://marketplace.visualstudio.com/items?itemName=vxna.one-dark-nx)
 
-![code screenshot](assets/screenshot.png?raw=true "code screenshot")
+Slightly modified [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) theme, adopted for my own needs.
+
+![screenshot](assets/screenshot.png?raw=true 'screenshot')
 
 ## Credits
 
-[One Dark UI](https://atom.io/themes/one-dark-ui)  
-[One Dark Pro](https://github.com/Binaryify/OneDark-Pro)  
-[One Dark Vivid](https://github.com/kkozee/vscode-theme-one-dark-vivid)
+- [Atom One Dark UI theme](https://atom.io/themes/one-dark-ui)
+- [Atom One Dark Vivid Syntax theme](https://atom.io/themes/one-dark-vivid-syntax)
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 
 ## License
 
-MIT (http://www.opensource.org/licenses/mit-license.php)
+[MIT](./LICENSE)
